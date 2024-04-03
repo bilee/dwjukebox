@@ -1,5 +1,5 @@
 # dwjukebox
-control.ini settings for SNES retro game controller;
+control.ini settings for SNES retro game controller with Touch-4.skn;
 10 functions- song select(A-D, 1-4), skip, navigate RIGHT.
 JOY1_UP = = BTN_A
 JOY1_RIGHT = BTN_B
